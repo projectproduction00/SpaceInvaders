@@ -1,0 +1,10 @@
+
+- Alle GameJam Assets und Effekte müssen integriert sein
+- Alle GameJam geplanten Mechanics müssen integriert sein
+-- 2 Angriffsmodi
+-- Bosskampf
+-- Mehr Randomness 
+- Effekte verbessern
+- Neues Spawn Enemy System 
+- verschiedene UFOs als Gegner
+- neue Gegner
