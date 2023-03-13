@@ -980,3 +980,1113 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.13-10.58.54:930][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
 [2023.03.13-10.58.54:931][  0]LogLiveCoding: Display: First instance in process group "UE_Space_Invaders_0x1073575d", spawning console
 [2023.03.13-10.58.54:938][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.13-10.58.55:624][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.13-10.58.55:673][  0]LogInit: Transaction tracking system initialized
+[2023.03.13-10.58.55:736][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../01_Projects/SpaceInvaders/Saved/SourceControl/UncontrolledChangelists.json
+[2023.03.13-10.58.55:737][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.03.13-10.58.55:742][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.005243 seconds (Found 115 uncontrolled assets)
+[2023.03.13-10.58.55:816][  0]BlueprintLog: New page: Editor Load
+[2023.03.13-10.58.56:039][  0]LocalizationService: Localization service is disabled
+[2023.03.13-10.58.56:083][  0]TimingProfiler: Initialize
+[2023.03.13-10.58.56:084][  0]TimingProfiler: OnSessionChanged
+[2023.03.13-10.58.56:084][  0]LoadingProfiler: Initialize
+[2023.03.13-10.58.56:084][  0]LoadingProfiler: OnSessionChanged
+[2023.03.13-10.58.56:084][  0]NetworkingProfiler: Initialize
+[2023.03.13-10.58.56:084][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.13-10.58.56:084][  0]MemoryProfiler: Initialize
+[2023.03.13-10.58.56:084][  0]MemoryProfiler: OnSessionChanged
+[2023.03.13-10.58.56:388][  0]LogFileCache: Scanning file cache for directory 'D:/working/01_Projects/SpaceInvaders/Content/' took 0.01s
+[2023.03.13-10.58.56:475][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.03.13-10.58.56:653][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.13-10.58.56:804][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.13-10.58.56:806][  0]SourceControl: Source control is disabled
+[2023.03.13-10.58.56:806][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.173
+[2023.03.13-10.58.56:806][  0]Cmd: MAP LOAD FILE="../../../../01_Projects/SpaceInvaders/Content/Maps/Space.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.13-10.58.56:806][  0]LightingResults: New page: Lighting Build
+[2023.03.13-10.58.56:811][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-10.58.56:812][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-10.58.56:812][  0]MapCheck: New page: Map Check
+[2023.03.13-10.58.56:812][  0]LightingResults: New page: Lighting Build
+[2023.03.13-10.58.56:821][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-10.58.56:825][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.13-10.58.57:036][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/StarterContent/Textures/T_Burst_M': Can't find file.
+[2023.03.13-10.58.57:036][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion Referenced by CharacterMesh0
+[2023.03.13-10.58.57:036][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_Burst.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Textures/T_Burst_M'
+[2023.03.13-10.58.57:037][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Explosion_SubUV': Can't find file.
+[2023.03.13-10.58.57:037][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion Referenced by CharacterMesh0
+[2023.03.13-10.58.57:037][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Textures/T_Explosion_SubUV'
+[2023.03.13-10.58.57:040][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2023.03.13-10.58.57:040][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion Referenced by CharacterMesh0
+[2023.03.13-10.58.57:040][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Textures/T_Smoke_SubUV'
+[2023.03.13-10.58.57:040][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2023.03.13-10.58.57:040][  0]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Explosion Referenced by CharacterMesh0
+[2023.03.13-10.58.57:040][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Textures/T_Smoke_Tiled_D'
+[2023.03.13-10.58.57:242][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\TopDown\Blueprints\MenueScreen\Sputnik_Blueprint.uasset: Failed to load '/Game/TopDown/Blueprints/Spawnpoint': Can't find file.
+[2023.03.13-10.58.57:242][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\TopDown\Blueprints\MenueScreen\Sputnik_Blueprint.uasset: VerifyImport: Failed to load package for import object 'Package /Game/TopDown/Blueprints/Spawnpoint'
+[2023.03.13-10.58.57:284][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\Materials\WarpSpeed.uasset: Failed to load '/Game/StarterContent/Textures/T_Perlin_Noise_M': Can't find file.
+[2023.03.13-10.58.57:284][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\Materials\WarpSpeed.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2023.03.13-10.58.57:285][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\Materials\WarpSpeed1.uasset: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2023.03.13-10.58.57:285][  0]LogLinker: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\Materials\WarpSpeed1.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Textures/T_Rock_Basalt_D'
+[2023.03.13-10.58.57:308][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.03.13-10.58.57:445][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Ships/UFO/ANM_UFOIdle_Anim.ANM_UFOIdle_Anim
+[2023.03.13-10.58.57:464][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave mixkit-space-rocket-full-power-turbine-1720...
+[2023.03.13-10.58.57:464][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Ships/Player/Var_1/ANM_SpaceshipBackwards_Anim.ANM_SpaceshipBackwards_Anim
+[2023.03.13-10.58.57:535][  0]LogMaterial: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.13-10.58.57:537][  0]LogMaterial: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2023.03.13-10.58.57:544][  0]LogMaterial: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2023.03.13-10.58.57:572][  0]LogMaterial: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\Materials\WarpSpeed.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.13-10.58.57:573][  0]LogMaterial: Warning: [AssetLog] D:\working\01_Projects\SpaceInvaders\Content\Materials\WarpSpeed1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.13-10.58.57:581][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave AdhesiveWombat_-_Night_Shade...
+[2023.03.13-10.58.57:631][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/UFO/UFO_LP_lambert1_Normal.UFO_LP_lambert1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.57:640][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/UFO/UFO_LP_lambert1_Emissive.UFO_LP_lambert1_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.57:668][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/UFO/UFO_LP_lambert1_BaseColor.UFO_LP_lambert1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.57:694][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/UFO/UFO_LP_lambert1_OcclusionRoughnessMetallic.UFO_LP_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.57:697][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space'.
+[2023.03.13-10.58.57:698][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.13-10.58.57:700][  0]LogAIModule: Creating AISystem for world Space
+[2023.03.13-10.58.57:763][  0]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (ANM_UFOIdle) ...
+[2023.03.13-10.58.58:296][  0]LogAudio: Display: Chunk size for SoundWave /Game/Audio/mixkit-space-rocket-full-power-turbine-1720.mixkit-space-rocket-full-power-turbine-1720: 262144
+[2023.03.13-10.58.58:302][  0]LogSkeletalMesh: Building Skeletal Mesh ANM_UFOIdle...
+[2023.03.13-10.58.58:518][  0]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/Assets/Ships/UFO/ANM_UFOIdle.ANM_UFOIdle
+[2023.03.13-10.58.58:520][  0]LogStaticMesh: Display: Building static mesh Missile...
+[2023.03.13-10.58.58:520][  0]LogSkeletalMesh: Building Skeletal Mesh ANM_Spaceship...
+[2023.03.13-10.58.58:520][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Missile_Textures/Missile_lambert1_Metallic.Missile_lambert1_Metallic (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.59892 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.58:520][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Missile_Textures/Missile_lambert1_Normal.Missile_lambert1_Normal (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.58:520][  0]LogStaticMesh: Display: Building static mesh Asteroid_3_LOW_MODEL_...
+[2023.03.13-10.58.58:520][  0]LogStaticMesh: Display: Building static mesh Sputnik...
+[2023.03.13-10.58.58:521][  0]LogStaticMesh: Display: Building static mesh Asteroid_1_LOW_MODEL_...
+[2023.03.13-10.58.58:522][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Missile_Textures/Missile_lambert1_Roughness.Missile_lambert1_Roughness (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.59892 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.58:543][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Ships/Player/Var_1/Missile.Missile
+[2023.03.13-10.58.58:560][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.13-10.58.58:600][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/Sputnik/Sputnik.Sputnik
+[2023.03.13-10.58.58:611][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.03.13-10.58.58:612][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.13-10.58.58:612][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2023.03.13-10.58.58:612][  0]LogFileHelpers: Loading map 'Space' took 1.806
+[2023.03.13-10.58.58:633][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.000
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: ================================================
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.13-10.58.58:633][  0]LogShaderCompilers: Display: ================================================
+[2023.03.13-10.58.58:655][  0]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Assets/Ships/Player/Var_1/ANM_Spaceship.ANM_Spaceship
+[2023.03.13-10.58.58:663][  0]LogTexture: Display: Building textures: /Game/Materials/Stern.Stern (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.58:735][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Spaceship_Textures/Space_Ship_lambert2_Metallic.Space_Ship_lambert2_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.58:780][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Spaceship_Textures/Space_Ship_lambert2_Roughness.Space_Ship_lambert2_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.58:832][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-10.58.58:849][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-10.58.58:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-10.58.58:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-10.58.58:925][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Spaceship_Textures/Space_Ship_lambert2_Emissive.Space_Ship_lambert2_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:016][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Spaceship_Textures/Space_Ship_lambert2_BaseColor.Space_Ship_lambert2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:049][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:052][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:054][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:055][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:058][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:060][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:062][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:063][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:065][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:067][  0]LogPakFile: Display: Mounted Pak file 'D:/working/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.13-10.58.59:124][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Spaceship_Textures/Space_Ship_lambert2_Normal.Space_Ship_lambert2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 352.562488 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:334][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-MIOAUI6: (Name=DESKTOP-MIOAUI6, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2023.03.13-10.58.59:388][  0]LogSlate: Took 0.000614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.13-10.58.59:396][  0]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.13-10.58.59:399][  0]LogSlate: Took 0.000680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.13-10.58.59:439][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.03.13-10.58.59:561][  0]LogTexture: Display: Building textures: /Game/Assets/Sputnik/Sputnik_low_Sputnik_BaseColor.Sputnik_low_Sputnik_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:639][  0]LogTexture: Display: Building textures: /Game/Assets/Sputnik/Sputnik_low_Sputnik_Normal.Sputnik_low_Sputnik_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:696][  0]LogTexture: Display: Building textures: /Game/Assets/Sputnik/Sputnik_low_Sputnik_OcclusionRoughnessMetallic.Sputnik_low_Sputnik_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:901][  0]LogTexture: Display: Building textures: /Game/Assets/ASTEROID_3_/Asteroid_3_/ASTEROID_LOW_POLY_3_COLOR_.ASTEROID_LOW_POLY_3_COLOR_ (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.58.59:935][  0]LogTexture: Display: Building textures: /Game/Assets/ASTEROID_3_/Asteroid_3_/ASTEROID_LOW_POLY_3_NM_.ASTEROID_LOW_POLY_3_NM_ (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2023.03.13-10.59.00:268][  0]LogStall: Startup...
+[2023.03.13-10.59.00:272][  0]LogStall: Startup complete.
+[2023.03.13-10.59.00:298][  0]LogLoad: (Engine Initialization) Total time: 13.67 seconds
+[2023.03.13-10.59.00:298][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.13-10.59.00:550][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Ships/Player/Var_1/ANM_SpaceshipStrife_Right.ANM_SpaceshipStrife_Right
+[2023.03.13-10.59.00:561][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Ships/Player/Var_1/ANM_SpaceshipStrife_Left.ANM_SpaceshipStrife_Left
+[2023.03.13-10.59.00:768][  0]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/Blueprints/PS_PlayerLaser.PS_PlayerLaser took 3.139453 sec, no shader worker used.
+[2023.03.13-10.59.00:772][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.13-10.59.00:777][  0]LogStaticMesh: Built static mesh [2.26s] /Game/Assets/ASTEROID_1_/Asteroid_1_LOW_MODEL_.Asteroid_1_LOW_MODEL_
+[2023.03.13-10.59.00:832][  0]LogTexture: Display: Building textures: /Game/Assets/ASTEROID_1_/ASTEROID_LOW_POLY_1_COLOR_.ASTEROID_LOW_POLY_1_COLOR_ (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.13-10.59.00:838][  0]LogTexture: Display: Building textures: /Game/Materials/HDRI/RenderCrate-HDRI_Orbital_29_Sunset_4K.RenderCrate-HDRI_Orbital_29_Sunset_4K (RGBA16F, 4096x2048 x1x1x1) (Required Memory Estimate: 288.062485 MB), EncodeSpeed: Fast
+[2023.03.13-10.59.00:839][  0]LogTexture: Display: Building textures: /Game/Assets/ASTEROID_1_/ASTEROID_LOW_POLY_1_NM_.ASTEROID_LOW_POLY_1_NM_ (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2023.03.13-10.59.00:856][  0]LogTexture: Display: Building textures: /Game/Assets/Ships/Player/Var_1/Missile_Textures/Missile_lambert1_BaseColor.Missile_lambert1_BaseColor (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2023.03.13-10.59.01:484][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/working/01_Projects/SpaceInvaders/Content/' took 1.09s
+[2023.03.13-10.59.01:494][  1]LogAssetRegistry: Asset discovery search completed in 11.1127 seconds
+[2023.03.13-10.59.01:525][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2023.03.13-10.59.01:566][  1]LogStaticMesh: Built static mesh [3.05s] /Game/Assets/ASTEROID_3_/Asteroid_3_/Asteroid_3_LOW_MODEL_.Asteroid_3_LOW_MODEL_
+[2023.03.13-10.59.01:692][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Ships/Player/Var_1/ANM_SpaceshipForwards.ANM_SpaceshipForwards
+[2023.03.13-10.59.01:962][  2]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.13-10.59.02:743][ 19]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-10.59.02:759][ 19]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-10.59.04:456][ 66]LogAudio: Display: Chunk size for SoundWave /Game/Audio/AdhesiveWombat_-_Night_Shade.AdhesiveWombat_-_Night_Shade: 262144
+[2023.03.13-10.59.04:470][ 67]LogAudio: Display: Sound Wave SoundWave /Game/Audio/AdhesiveWombat_-_Night_Shade.AdhesiveWombat_-_Night_Shade is very large, requiring 71 chunks.
+[2023.03.13-10.59.05:111][ 91]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.450 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.03.13-10.59.06:037][117]LogMeshUtilities: Finished distance field build in 1.4s - 126x98x70 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 52% occupied, 1056 triangles, Sputnik
+[2023.03.13-10.59.26:988][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.13-10.59.26:997][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-10.59.26:998][465]PIE: New page: PIE session: Space (Mar 13, 2023, 12:59:26 PM)
+[2023.03.13-10.59.27:001][465]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.13-10.59.27:001][465]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.13-10.59.27:001][465]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Space
+[2023.03.13-10.59.27:009][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007309s)
+[2023.03.13-10.59.27:009][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Space.Space to /Game/Maps/UEDPIE_0_Space.Space (0.007363s)
+[2023.03.13-10.59.27:009][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.13-10.59.27:009][465]LogAIModule: Creating AISystem for world Space
+[2023.03.13-10.59.27:010][465]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2023.03.13-10.59.27:018][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.13-10.59.27:020][465]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.13-10.59.27:020][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.13-10.59.27:020][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-10.59.27:020][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-10.59.27:020][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-10.59.27:020][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-10.59.27:022][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.13-10.59.27:104][465]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Razer Kraken Ultimate)
+[2023.03.13-10.59.27:104][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-10.59.27:104][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-10.59.27:104][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-10.59.27:104][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.13-10.59.27:105][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.13-10.59.27:107][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.13-10.59.27:107][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.13-10.59.27:107][465]LogInit: FAudioDevice initialized.
+[2023.03.13-10.59.27:107][465]LogAudio: Display: Audio Device (ID: 2) registered with world 'Space'.
+[2023.03.13-10.59.27:110][465]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.03.13-10.59.27:112][465]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Space.Space up for play (max tick rate 0) at 2023.03.13-11.59.27
+[2023.03.13-10.59.27:114][465]LogWorld: Bringing up level for play took: 0.003362
+[2023.03.13-10.59.27:115][465]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.03.13-10.59.27:147][465]Cmd: t.maxfps 60
+[2023.03.13-10.59.27:147][465]t.MaxFPS = "60"
+[2023.03.13-10.59.27:148][465]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.13-10.59.27:148][465]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.03.13-10.59.27:148][465]PIE: Server logged in
+[2023.03.13-10.59.27:149][465]PIE: Play in editor total start time 0.151 seconds.
+[2023.03.13-10.59.27:672][487]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.03.13-10.59.27:672][487]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.03.13-10.59.27:867][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:867][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:867][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:867][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:867][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Actor_15_602418AC4799C2C0DFFF5B80B9CFFB39' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Health_24_6AB0F7524E5413D06801D29804F28B46' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Movements_21_AF884E094E088E1F167ED2A4A509F43C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'MoveSpeedMulti_26_CC9739AF4A65FD795A6B118E71EB3E90' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Velocity_33_1886A2334EB9118FA3B40F951E02FBEF' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CanShoot_37_FAF65E2A42F2EB909385E0961384007C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FireRate_40_B773DC054C34F4B545750C9D8711E7C5' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Actor_15_602418AC4799C2C0DFFF5B80B9CFFB39' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:868][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Health_24_6AB0F7524E5413D06801D29804F28B46' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Movements_21_AF884E094E088E1F167ED2A4A509F43C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'MoveSpeedMulti_26_CC9739AF4A65FD795A6B118E71EB3E90' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Velocity_33_1886A2334EB9118FA3B40F951E02FBEF' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CanShoot_37_FAF65E2A42F2EB909385E0961384007C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'FireRate_40_B773DC054C34F4B545750C9D8711E7C5' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.27:869][493]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Actor_15_602418AC4799C2C0DFFF5B80B9CFFB39' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:871][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Health_24_6AB0F7524E5413D06801D29804F28B46' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Movements_21_AF884E094E088E1F167ED2A4A509F43C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'MoveSpeedMulti_26_CC9739AF4A65FD795A6B118E71EB3E90' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Velocity_33_1886A2334EB9118FA3B40F951E02FBEF' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CanShoot_37_FAF65E2A42F2EB909385E0961384007C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'FireRate_40_B773DC054C34F4B545750C9D8711E7C5' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Actor_15_602418AC4799C2C0DFFF5B80B9CFFB39' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Health_24_6AB0F7524E5413D06801D29804F28B46' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Movements_21_AF884E094E088E1F167ED2A4A509F43C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'MoveSpeedMulti_26_CC9739AF4A65FD795A6B118E71EB3E90' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:872][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Velocity_33_1886A2334EB9118FA3B40F951E02FBEF' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CanShoot_37_FAF65E2A42F2EB909385E0961384007C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'FireRate_40_B773DC054C34F4B545750C9D8711E7C5' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Actor_15_602418AC4799C2C0DFFF5B80B9CFFB39' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Health_24_6AB0F7524E5413D06801D29804F28B46' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Movements_21_AF884E094E088E1F167ED2A4A509F43C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'MoveSpeedMulti_26_CC9739AF4A65FD795A6B118E71EB3E90' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Velocity_33_1886A2334EB9118FA3B40F951E02FBEF' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CanShoot_37_FAF65E2A42F2EB909385E0961384007C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'FireRate_40_B773DC054C34F4B545750C9D8711E7C5' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:873][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Actor_15_602418AC4799C2C0DFFF5B80B9CFFB39' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Health_24_6AB0F7524E5413D06801D29804F28B46' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'ScoreGive_45_AF7C23CD4BF09E38A28884AED08BE517' of length 0 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Movements_21_AF884E094E088E1F167ED2A4A509F43C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'MoveSpeedMulti_26_CC9739AF4A65FD795A6B118E71EB3E90' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'XYMulti_30_08F3123D4FF9F10E807A53BF3E36F04F' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Velocity_33_1886A2334EB9118FA3B40F951E02FBEF' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'CanShoot_37_FAF65E2A42F2EB909385E0961384007C' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'FireRate_40_B773DC054C34F4B545750C9D8711E7C5' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Locations_18_8A96B54C4B1BBC1EB5F489A603118DA8' of length 1 in '/Game/TopDown/Blueprints/Gameplay_Struct.Gameplay_Struct'!
+[2023.03.13-10.59.37:874][ 67]LogScript: Warning: Last function called:
+	/Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C.ExecuteUbergraph_BP_TopDownGameMode
+
+[2023.03.13-10.59.43:183][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-10.59.43:183][363]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Space
+[2023.03.13-10.59.43:208][363]LogWorld: UWorld::CleanupWorld for Space, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-10.59.43:209][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-10.59.43:213][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-10.59.43:216][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-10.59.43:224][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-10.59.43:225][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.13-10.59.43:226][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.13-10.59.43:232][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-10.59.43:234][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.13-10.59.43:288][364]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.03.13-10.59.44:054][410]Cmd: SELECT NONE
+[2023.03.13-10.59.48:252][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.13-10.59.48:253][659]LogStall: Shutdown...
+[2023.03.13-10.59.48:255][659]LogStall: Shutdown complete.
+[2023.03.13-10.59.48:292][659]LogSlate: Window 'Space_Invaders - Unreal Editor' being destroyed
+[2023.03.13-10.59.48:364][660]Cmd: QUIT_EDITOR
+[2023.03.13-10.59.48:365][660]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.13-10.59.48:367][660]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.13-10.59.48:367][660]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.13-10.59.48:367][660]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.13-10.59.48:368][660]LogWorld: UWorld::CleanupWorld for Space, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-10.59.48:368][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-10.59.48:369][660]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.03.13-10.59.48:369][660]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.03.13-10.59.49:446][660]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.13-10.59.49:446][660]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.13-10.59.49:446][660]LogAudio: Display: Audio Device unregistered from world 'Space'.
+[2023.03.13-10.59.49:446][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.13-10.59.49:449][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.13-10.59.49:458][660]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.13-10.59.49:463][660]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.13-10.59.49:463][660]LogExit: Preparing to exit.
+[2023.03.13-10.59.49:481][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.03.13-10.59.50:491][660]LogExit: Editor shut down
+[2023.03.13-10.59.50:494][660]LogExit: Transaction tracking system shut down
+[2023.03.13-10.59.50:517][660]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.03.13-10.59.50:574][660]LogExit: Object subsystem successfully closed.
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: ================================================
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Total job queries 61, among them cache hits 4 (6.56%)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 40 distinct outputs (70.18%)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: RAM used: 0.35 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Shaders Compiled: 26
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100.00%)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Average time worker was idle: 6.97 s
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 2.13 s
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Job execution time: average 1.86 s, max 4.55 s
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Job life time (pending + execution): average 2.40 s, max 4.63
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.64 s
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Average processing rate: 2.44 jobs/sec
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Total thread time: 34.68 s
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Total thread preprocess time: 3.46 s
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Percentage time preprocessing: 9.98%
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Effective parallelization: 3.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.51 sec, max 2.60 sec, min 0.83 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.31 sec, max 1.85 sec, min 0.89 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 1.31 sec, max 2.20 sec, min 0.82 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 1.01 sec, max 1.77 sec, min 0.57 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.23% of total time (compiled    9 times, average 1.51 sec, max 2.60 sec, min 0.83 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.00% of total time (compiled    9 times, average 1.31 sec, max 2.20 sec, min 0.82 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.11% of total time (compiled    4 times, average 1.31 sec, max 1.85 sec, min 0.89 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.65% of total time (compiled    4 times, average 1.01 sec, max 1.77 sec, min 0.57 sec)
+[2023.03.13-10.59.50:579][660]LogShaderCompilers: Display: ================================================
+[2023.03.13-10.59.50:588][660]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.13-10.59.50:628][660]LogVirtualization: UE::Virtualization was shutdown
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (993)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module Voice (991)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (989)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (987)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module AddContentDialog (985)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module WidgetCarousel (984)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module SubobjectEditor (981)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module SceneOutliner (979)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module StatusBar (977)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (975)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module StatsViewer (973)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (971)
+[2023.03.13-10.59.50:641][660]LogModuleManager: Shutting down and abandoning module AutomationWorker (969)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module TextureAlignMode (967)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module BspMode (965)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module GeometryMode (963)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module WaveTableEditor (961)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (959)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module HDRIBackdrop (957)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module GooglePADEditor (955)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (953)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (951)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (949)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (947)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (945)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module PlanarCut (943)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module CharacterAI (941)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (939)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ControlRigEditor (937)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module IKRigEditor (935)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (933)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (931)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (929)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (927)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module WebMMedia (925)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (923)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (921)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module SequenceRecorder (920)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (917)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (915)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (913)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (911)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (909)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (907)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (905)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module SmartSnapping (903)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.03.13-10.59.50:642][660]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.03.13-10.59.51:246][660]MemoryProfiler: Shutdown
+[2023.03.13-10.59.51:246][660]NetworkingProfiler: Shutdown
+[2023.03.13-10.59.51:246][660]LoadingProfiler: Shutdown
+[2023.03.13-10.59.51:246][660]TimingProfiler: Shutdown
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.03.13-10.59.51:246][660]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.03.13-10.59.51:247][660]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.03.13-10.59.51:248][660]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.03.13-10.59.51:249][660]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.03.13-10.59.51:249][660]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.03.13-10.59.51:262][660]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (707)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (705)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (703)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module TakesCore (701)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (695)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (693)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2023.03.13-10.59.51:505][660]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module LightMixer (687)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (685)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AlembicImporter (683)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AlembicLibrary (682)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (677)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module StylusInput (675)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (673)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (671)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module PluginBrowser (669)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (667)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (665)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (663)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module CurveEditorTools (661)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GLTFImporter (659)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GLTFCore (657)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (655)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module EditorDebugTools (653)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (651)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module CryptoKeys (649)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (647)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (645)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module SynthesisEditor (643)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ResonanceAudio (641)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (639)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (637)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (635)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ModelingOperators (633)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (631)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ModelingComponents (629)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryFramework (628)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (625)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module MeshModelingTools (623)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module InputDebugging (621)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GooglePAD (619)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module DynamicMesh (617)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (615)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (613)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryCache (611)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (609)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (607)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (605)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AudioCapture (603)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (602)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (599)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AppleImageUtils (597)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (595)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AssetTags (593)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module AndroidPermission (591)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (589)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (587)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (585)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module SequencerScripting (583)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module TemplateSequence (581)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module VariantManager (579)
+[2023.03.13-10.59.51:506][660]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (578)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (575)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (573)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (571)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (569)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module UVEditorTools (567)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module UVEditor (565)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (563)
+[2023.03.13-10.59.51:507][660]LogOpenImageDenoise: OIDN shutting down
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (561)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (559)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (557)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (555)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MeshLODToolset (553)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (551)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (549)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (547)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (545)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (543)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (542)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (540)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (537)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module Iris (535)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module DataflowNodes (533)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module DataflowEditor (531)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module FractureEditor (529)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (527)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (525)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ChaosNiagara (523)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (521)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module BackChannel (519)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (517)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module AutomationUtils (515)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module TakeSequencer (513)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module TakeMovieScene (511)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ControlRigSpline (509)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (507)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (505)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (503)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MediaPlate (501)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MediaCompositing (499)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module ImgMedia (497)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (495)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (493)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (491)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeEditor (489)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (487)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (485)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (483)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangePipelines (481)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeExport (479)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeMessages (477)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeImport (475)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (473)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeNodes (471)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (469)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module UObjectPlugin (467)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (465)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (463)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (461)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module PluginUtils (459)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (457)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module DumpGPUServices (455)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module GitSourceControl (453)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (451)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (449)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (447)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InterchangeTests (445)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (443)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (441)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (439)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module Paper2DEditor (437)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.03.13-10.59.51:507][660]LogModuleManager: Shutting down and abandoning module TcpMessaging (425)
+[2023.03.13-10.59.51:608][660]LogModuleManager: Shutting down and abandoning module UdpMessaging (423)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (421)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (419)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module FacialAnimation (417)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (415)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module DataValidation (413)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (411)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module TreeMap (410)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module Synthesis (407)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module SoundFields (405)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module SignificanceManager (403)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (401)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (399)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module MetasoundEditor (397)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module AudioWidgets (396)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (395)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (391)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module MetasoundEngine (389)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module WaveTable (388)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (386)
+[2023.03.13-10.59.51:709][660]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (383)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (381)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (379)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (377)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (375)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (373)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module CableComponent (371)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (369)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (368)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (365)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module ActorSequence (363)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (361)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module PBIK (359)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module FullBodyIK (357)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (355)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module TakeRecorder (354)
+[2023.03.13-10.59.51:710][660]LogModuleManager: Shutting down and abandoning module LevelEditor (352)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (351)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (349)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (347)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module MainFrame (345)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module HotReload (344)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module ChaosCaching (339)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module GameplayCameras (337)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (335)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module ControlRig (333)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module LevelSequence (332)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (329)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module IKRig (327)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (325)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (323)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (321)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module AnimationSharing (319)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (317)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module Niagara (315)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module SignalProcessing (314)
+[2023.03.13-10.59.51:711][660]LogModuleManager: Shutting down and abandoning module NiagaraEditor (312)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module ToolMenus (310)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module NiagaraCore (303)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module Paper2D (301)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.03.13-10.59.51:712][660]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.03.13-10.59.51:714][660]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.03.13-10.59.51:725][660]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.03.13-10.59.51:725][660]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.03.13-10.59.51:727][660]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module AISupportModule (112)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (110)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (108)
+[2023.03.13-10.59.51:728][660]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (106)
+[2023.03.13-10.59.51:729][660]LogModuleManager: Shutting down and abandoning module XMPP (101)
+[2023.03.13-10.59.51:729][660]LogModuleManager: Shutting down and abandoning module WebSockets (100)
+[2023.03.13-10.59.51:735][660]LogModuleManager: Shutting down and abandoning module HTTP (97)
+[2023.03.13-10.59.51:735][660]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.03.13-10.59.51:735][660]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B324168-4F87-B8D6-8D6B-4FABE4559535%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=392d0669486af5865f3a0e8015e37afc%7Cf62a3abb45a447fdb7cbf948aa46e4ee%7C53748b10-c41e-4abd-8c73-8c3ab83b3188&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.13-10.59.51:772][660]LogModuleManager: Shutting down and abandoning module SSL (96)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (86)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module ChunkDownloader (82)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module VariantManagerContent (80)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module GLTFExporter (78)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module ChaosCloth (74)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2023.03.13-10.59.51:773][660]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2023.03.13-10.59.51:776][660]LogModuleManager: Shutting down and abandoning module Media (69)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.03.13-10.59.51:778][660]LogXGEController: Cleaning working directory: C:/Users/timkd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.03.13-10.59.51:778][660]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.03.13-10.59.51:779][660]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.03.13-10.59.51:780][660]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.03.13-10.59.51:780][660]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.03.13-10.59.51:780][660]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.03.13-10.59.51:781][660]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.03.13-10.59.51:880][660]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.03.13-10.59.51:912][660]LogExit: Exiting.
+[2023.03.13-10.59.51:924][660]Log file closed, 03/13/23 11:59:51
