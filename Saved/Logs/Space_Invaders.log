@@ -1314,3 +1314,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.13-12.02.52:335][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms
 [2023.03.13-12.02.52:339][845]AssetCheck: New page: Asset Save: Space
 [2023.03.13-12.02.52:339][845]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Space.Space
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: ================================================
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: Total job queries 120, among them cache hits 28 (23.33%)
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 60 distinct outputs (65.22%)
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: RAM used: 0.58 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.13-12.07.43:187][895]LogShaderCompilers: Display: ================================================
+[2023.03.13-12.07.47:110][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.13-12.07.47:165][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Space" FILE="../../../../01_Projects/SpaceInvaders/Content/Maps/Space.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.13-12.07.47:176][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.03.13-12.07.47:199][115]LogSavePackage: Moving output files for package: /Game/Maps/Space
+[2023.03.13-12.07.47:199][115]LogSavePackage: Moving '../../../../01_Projects/SpaceInvaders/Saved/SpaceEC3F04794E7D609ABCEED989B587AA71.tmp' to '../../../../01_Projects/SpaceInvaders/Content/Maps/Space.umap'
+[2023.03.13-12.07.47:214][115]LogFileHelpers: Saving map 'Space' took 0.049
+[2023.03.13-12.07.47:221][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 227 ms)
+[2023.03.13-12.07.47:225][115]AssetCheck: New page: Asset Save: Space
+[2023.03.13-12.07.47:225][115]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Space.Space
