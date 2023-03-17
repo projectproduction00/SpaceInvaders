@@ -16414,3 +16414,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.16-15.06.40:051][842]LogSlate: Window 'Message Log' being destroyed
 [2023.03.16-15.06.42:258][954]BlueprintLog: New page: Compile ProjectileDamage
 [2023.03.16-15.06.42:454][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.16-15.12.22:844][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.16-15.12.22:847][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Space" FILE="../../../../01_Projects/SpaceInvaders/Saved/Autosaves/Game/Maps/Space_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.16-15.12.22:881][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Space_Auto2
+[2023.03.16-15.12.22:881][ 18]LogSavePackage: Moving '../../../../01_Projects/SpaceInvaders/Saved/Space_Auto204F9B5EA4ECBA99E272D5688CA9B2F14.tmp' to '../../../../01_Projects/SpaceInvaders/Saved/Autosaves/Game/Maps/Space_Auto2.umap'
+[2023.03.16-15.12.22:890][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Space' took 0.166
+[2023.03.16-15.12.22:890][ 18]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.166
+[2023.03.16-15.12.22:890][ 18]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/ProjectileSpawner] ([2] browsable assets)...
+[2023.03.16-15.12.22:952][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/ProjectileSpawner.ProjectileSpawner]
+[2023.03.16-15.12.22:956][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/ProjectileSpawner]
+[2023.03.16-15.12.22:970][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/ProjectileSpawner_Auto2
+[2023.03.16-15.12.22:970][ 18]LogSavePackage: Moving '../../../../01_Projects/SpaceInvaders/Saved/ProjectileSpawner_Auto2F51EC5CA40FD826343F777A82AE4E039.tmp' to '../../../../01_Projects/SpaceInvaders/Saved/Autosaves/Game/TopDown/Blueprints/ProjectileSpawner_Auto2.uasset'
+[2023.03.16-15.12.22:970][ 18]LogFileHelpers: Auto-saving content packages took 0.081
+[2023.03.16-15.19.27:427][292]LogDerivedDataCache: C:/Users/timkd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.056 and deleted 0 files with total size 0 MiB. Scanned 11940 files in 3032 folders with total size 3753 MiB.
+[2023.03.16-16.19.27:438][ 89]LogDerivedDataCache: C:/Users/timkd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.066 and deleted 0 files with total size 0 MiB. Scanned 11940 files in 3032 folders with total size 3753 MiB.
