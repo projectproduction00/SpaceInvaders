@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Plugins/Runtime/HDRIBackdrop/Content/Blueprints/HDRIBackdrop.uasset",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset",
@@ -27,6 +28,19 @@
 				"C:/Users/dirk_/Desktop/SpaceInvaders/Content/Assets/01_Dirk/HansJosef_DefaultMaterial_BaseColor.uasset",
 				"C:/Users/dirk_/Desktop/SpaceInvaders/Content/Assets/01_Dirk/HansJosef_DefaultMaterial_Normal.uasset",
 				"C:/Users/dirk_/Desktop/SpaceInvaders/Content/Assets/01_Dirk/HansJosef_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+=======
+				"C:/Users/Anwender/Desktop/Space_Invaders/Content/Audio/mixkit-space-rocket-full-power-turbine-1720_Cue.uasset",
+				"C:/Users/Anwender/Desktop/Space_Invaders/Content/Maps/Space.umap",
+				"E:/Github/SpaceInvaders/Content/Assets/03_Evo/Dino_toy.uasset",
+				"E:/Github/SpaceInvaders/Content/Assets/03_Evo/M_Dino.uasset",
+				"E:/Github/SpaceInvaders/Content/Maps/Space.umap",
+				"E:/Github/SpaceInvaders/Content/Assets/03_Evo/dino_defaultPolygonShader_BaseColor.uasset",
+				"E:/Github/SpaceInvaders/Content/Assets/03_Evo/dino_defaultPolygonShader_Normal.uasset",
+				"E:/Github/SpaceInvaders/Content/Assets/03_Evo/dino_defaultPolygonShader_OcclusionRoughnessMetallic.uasset",
+				"E:/Github/SpaceInvaders/Content/TopDown/Blueprints/Gameplay_Data.uasset",
+				"E:/Github/SpaceInvaders/Content/Audio/ExplosionLarge_6048_94_2.uasset",
+				"E:/Github/SpaceInvaders/Content/Assets/03_Evo/defaultPolygonShader.uasset",
+>>>>>>> origin/evo
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Ships/Fence_Textures/Fence.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Ships/Fence_Textures/Fence_lambert2_BaseColor.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Ships/Fence_Textures/Fence_lambert2_Emissive.uasset",
@@ -62,6 +76,7 @@
 				"D:/working/01_Projects/SpaceInvaders/Content/Audio/AdhesiveWombat_-_Night_Shade_Cue.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Ships/Thorn/Enemy_1_LP_lambert1_BaseColor_Mat.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Enemy_2.uasset",
+<<<<<<< HEAD
 				"D:/working/01_Projects/SpaceInvaders/Content/TriggerBox_Blueprint.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Bully_Blueprint.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/04_Casy/M_Bett.uasset",
@@ -84,6 +99,8 @@
 				"C:/Users/Meinn/OneDrive/Dokumente/GitHub/SpaceInvaders/Content/Assets/04_Casy/Bett_LP.uasset",
 				"C:/Users/Anwender/Desktop/Space_Invaders/Content/Audio/mixkit-space-rocket-full-power-turbine-1720_Cue.uasset",
 				"C:/Users/Anwender/Desktop/Space_Invaders/Content/Maps/Space.umap",
+=======
+>>>>>>> origin/evo
 				"C:/Users/Student/Documents/Unreal Projects/Space_Invaders/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Student/Documents/Unreal Projects/Space_Invaders/Content/TopDown/Input/Actions/IA_Movement.uasset",
 				"C:/Users/Student/Documents/Unreal Projects/Space_Invaders/Content/TopDown/Input/IMC_Default.uasset",
