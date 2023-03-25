@@ -18,7 +18,6 @@
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/01_Dirk/EyeColor_Inst.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Untitled.umap",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/01_Dirk/HJ_Skeleton.uasset",
-				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Fonts/Transcorner.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Fonts/begokv15__2015___free.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Fonts/Begok_v15_2015___free.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Highscore/Highscore.uasset",
@@ -28,7 +27,16 @@
 				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Gameplay_Data.uasset",
 				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Enemy_Parent.uasset",
-				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Enemy_1.uasset"
+				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/Enemy_1.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/StarterContent/Audio/Light02_Cue.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/StarterContent/Audio/Light01_Cue.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/StarterContent/Audio/Light01.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/LevelPrototyping/Untitled.umap",
+				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/MenueScreen/Sputnik_Blueprint.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/TriggerBox_Blueprint.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/HP.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/TopDown/Blueprints/ProjectileSpawner.uasset",
+				"D:/working/01_Projects/SpaceInvaders/Content/Assets/Fonts/Transcorner.uasset"
 			]
 		}
 	]
